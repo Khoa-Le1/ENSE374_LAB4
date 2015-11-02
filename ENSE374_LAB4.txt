@@ -38,7 +38,7 @@ Based on a new design
 The programming language is Java and the application will run on a personal computer.
 
 3.2 Subsystem decomposition
-UML Diagram. Specifically a class diagram.
+UML Diagram. Specifically a class diagram. It will specifically include a world  with animals, and inheritance.
 
 3.3 Boundary conditions
 When world is created the user shall be allowed to populate the world. If a user inputs far too
