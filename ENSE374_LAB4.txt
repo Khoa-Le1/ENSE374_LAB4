@@ -1,0 +1,45 @@
+Khoa Le
+200338408
+ENSE 374 Lab #4 
+Mon. Nov. 2/15
+
+System Design Document
+1 Introduction
+1.1 Purpose
+The purpose is to create a closed virtual environment that simulates a given food chain of animals without any external 
+
+forces affecting the environment ( ie. weather). 
+
+1.2 Design Goals
+The rules laid out shall be:
+• World is 150 kms square. Carve up the world into a grid of 150/150 (2D environment)
+• Animals without wings can travel three kms in a day. (3 grid locations)
+• Animals with wings can travel 5kms.
+• Insects can travel 1km.
+• Everything must eat within two days.
+• No reproducing of any kind. Everything will die.
+• Print out only what is living at each location.
+• Grass, shrubs, and trees will not move
+• Animals and insects will randomly spawn 
+• No data will be saved 
+• Animals and insects will have bottomless stomaches (no eating limiting) 
+• Animals will not move through each other 
+• The program will be sequential (one thing only moving at a time) 
+• Animals will not have an escape option 	
+• Will show text instead of ACII representation (ex. "Wolf moving") 
+• User is able to choose the starting animal 
+• One iteration through the main loop 
+
+2 Current Software Architecture 
+Based on a new design 
+
+3 Proposed software architecture
+3.1 Overview
+The programming language is Java and the application will run on a personal computer.
+
+3.2 Subsystem decomposition
+UML Diagram. Specifically a class diagram.
+
+3.3 Boundary conditions
+When world is created the user shall be allowed to populate the world. If a user inputs far too
+many items an error shall be received.
