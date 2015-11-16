@@ -43,3 +43,8 @@ UML Diagram. Specifically a class diagram. It will specifically include a world 
 3.3 Boundary conditions
 When world is created the user shall be allowed to populate the world. If a user inputs far too
 many items an error shall be received.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                      Mile Stone 1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Based on the info provided in todays lab you may revise your UML Class diagram and begin Coding.  What I want to see by next lab period is the ability to randomly place things in your world.  Then iterate through the world and indicate what is living there by printing to the screen.   The due date is Nov 9th or Nov 10 depending on your lab day.  Put all your code under revision control and I (or my grader) will check out code up until your due date so make sure you get your code up to your repository.   If your design changes during your software development you must modify your SDD and UML Class diagram to reflect the changes.  I will add a new Milestone next week. 
